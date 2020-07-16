@@ -18,13 +18,13 @@ Welcome to the program! In this part, you’ll get an orientation into using our
 ### Introduction to Data Analysis
 Learn the data analysis process of questioning, wrangling, exploring, analyzing, and communicating data. Learn how to work with data in Python using libraries like NumPy and Pandas.
 
- * [Project 2](https://github.com/codenigma1/Data-Analyst-Nanodegree/blob/master/2-Investigate-a-Dataset/investigate-a-dataset-template.ipynb): Investigate a Dataset
+ * [Project 2: Investigate a Dataset](https://github.com/codenigma1/Data-Analyst-Nanodegree/blob/master/2-Investigate-a-Dataset/investigate-a-dataset-template.ipynb)
 
 ## PART 3
 ### Practical Statistics
 Learn how to apply inferential statistics and probability to important, real-world scenarios, such as analyzing A/B tests and building supervised learning models.
 
- * [Project 3](https://github.com/codenigma1/Data-Analyst-Nanodegree/blob/master/3-Analyze_AB_Test_Results/Analyze_ab_test_results_notebook.ipynb): Analyze A/B Test Results
+ * [Project 3: Analyze A/B Test Results](https://github.com/codenigma1/Data-Analyst-Nanodegree/blob/master/3-Analyze_AB_Test_Results/Analyze_ab_test_results_notebook.ipynb)
 
 ## PART 4
 ### Data Wrangling
