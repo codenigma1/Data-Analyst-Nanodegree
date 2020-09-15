@@ -1,6 +1,9 @@
 # NANGODEGREE PROGRAM
 ## Data Analyst
 Learn to clean up messy data, uncover patterns and insights, make prediction using machine learning, and clearly communicate your findings.
+[Verified Link](https://confirm.udacity.com/2LEC7J3Y)
+![](Capture.PNG)
+
 
 ## Core Curriculum
 This section consists of all the lessons and projects you need to complete in order to receive your certificate.
