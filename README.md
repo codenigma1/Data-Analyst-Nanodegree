@@ -30,10 +30,10 @@ Learn how to apply inferential statistics and probability to important, real-wor
 ### Data Wrangling
 Learn the data wrangling process of gathering, assessing, and cleaning data. Learn how to use Python to wrangle data programmatically and prepare it for deeper analysis.
 
- * Project: Wrangle and Analyze Data
+ * [Project: Wrangle and Analyze Data](https://github.com/codenigma1/Data-Analyst-Nanodegree/blob/master/Project_4_Data_Wrangling/wrangle_act.ipynb)
 
 ## PART 5
 ### Data Visualization
 Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.
 
- * Project: Communicate Data Findings
+ * [Project: Communicate Data Findings](https://github.com/codenigma1/Data-Analyst-Nanodegree/blob/master/Project_5_Communication_Data_Finding/exploration_template.ipynb)
