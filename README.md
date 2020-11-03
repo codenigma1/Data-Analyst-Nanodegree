@@ -28,7 +28,7 @@ Learn the data analysis process of questioning, wrangling, exploring, analyzing,
 ### Practical Statistics
 Learn how to apply inferential statistics and probability to important, real-world scenarios, such as analyzing A/B tests and building supervised learning models.
 
- * [Project 3: Analyze A/B Test Results (https://github.com/codenigma1/NanoDegree_Data_Analytic_Udacity/blob/master/Project_3_Analyze_AB_Test_Results/Analyze_ab_test_results_notebook.ipynb)
+ * [Project 3: Analyze A/B Test Results(https://github.com/codenigma1/NanoDegree_Data_Analytic_Udacity/blob/master/Project_3_Analyze_AB_Test_Results/Analyze_ab_test_results_notebook.ipynb)
 
 ## PART 4
 ### Data Wrangling
